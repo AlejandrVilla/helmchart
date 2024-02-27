@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  villaChart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-02-27T21:33:12.689315255Z"
+    description: A Helm chart for Kubernetes
+    digest: 19bbae99cc84dc701d24700f160f045302dfb6cef8c84cc46d5762af296878d5
+    name: villaChart
+    type: application
+    urls:
+    - charts/villaChart-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-02-27T21:33:12.68861095Z"
