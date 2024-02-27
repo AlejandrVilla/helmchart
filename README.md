@@ -11,6 +11,11 @@ helm search repo [name]
 helm install [release] [chart name]
 ```
 
+- Check the resources created
+```
+kubectl get all
+```
+
 - To uninstall a realease
 ```
 helm uninstall [release]
